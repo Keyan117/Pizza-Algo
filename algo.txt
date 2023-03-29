@@ -1,2 +1,4 @@
 step 1:order the pizza
-step 2:wait for the delivery
+step 2:choose the pizza
+step 2A:choose topping
+step 3:wait for the delivery
